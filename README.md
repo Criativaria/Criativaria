@@ -1,6 +1,6 @@
 <img width="40%" align="right" src="https://ik.imagekit.io/hp5za42qc/ftDePerfil.png?updatedAt=1704677127316">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=4DFC36&vCenter=true&multiline=true&random=false&width=430&height=150&lines=Oie!+Eu+sou+a+Criativaria;Tenho+18+anos;Formada+no+ensino+m%C3%A9dio+t%C3%A9cnico;em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=4DFC36&vCenter=true&multiline=true&random=false&width=430&height=150&lines=Oie!+Eu+sou+a+Criativaria;Tenho+19+anos;Formada+no+ensino+m%C3%A9dio+t%C3%A9cnico;em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
  <div align="left">
    
